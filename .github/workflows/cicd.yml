@@ -8,11 +8,7 @@ on:
 
 env:
   CI: false
-
-permissions:
-  contents: write  # Allow read and write access to code
-  actions: read    # Only allow reading actions  
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
