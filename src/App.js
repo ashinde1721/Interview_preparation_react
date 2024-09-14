@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Abhijit First React App with deployment
+     Try to deploy react app
     </div>
   );
 }
