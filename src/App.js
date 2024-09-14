@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Abhijit First React App Deployment to GITHUB ACTIONS
+     Abhijit First React App with deployment
     </div>
   );
 }
