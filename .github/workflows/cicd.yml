@@ -48,7 +48,7 @@ jobs:
       - name: Download build artifact
         uses: actions/download-artifact@v3  # Updated to v3
         with:
-          name: ./public
+          name: build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
